@@ -1,4 +1,4 @@
-import NavbarImage from "./images/header.png"
+
 import "./index.css";
 import Logo from "./images/logo.svg";
 function Navbar() {
