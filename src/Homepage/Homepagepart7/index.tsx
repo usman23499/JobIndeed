@@ -25,14 +25,14 @@ function home() {
                           
                             <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3">  
                             <div className="col">
-                            <img src={Imageone}  style={{width:"100%"}} />
+                            <img src={Imageone} alt="" style={{width:"100%"}} />
                             </div>
 
                             <div className="col">
-                            <img src={Imagetwo}   className="homepagepart4divone" style={{width:"100%",marginTop:"0px"}} />
+                            <img src={Imagetwo}  alt="" className="homepagepart4divone" style={{width:"100%",marginTop:"0px"}} />
                             </div>
                             <div className="col"> 
-                            <img src={Imagethree}  className="homepagepart4divone" style={{width:"100%",marginTop:"0px"} } /></div>
+                            <img src={Imagethree}  alt="" className="homepagepart4divone" style={{width:"100%",marginTop:"0px"} } /></div>
                              
                             </div>
                         </div>

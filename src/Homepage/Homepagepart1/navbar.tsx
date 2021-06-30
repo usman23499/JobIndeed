@@ -25,21 +25,21 @@ function Navbar() {
             <span className="navbar-text">
         <ul className="navbar-nav mr-auto">
           <li className="newLi">
-            <a className="nav-link navbutton" >Home</a>
+            <a className="nav-link navbutton" href="" >Home</a>
           </li>
           <li  className="newLi" >
-            <a className="nav-link navbutton" >
+            <a className="nav-link navbutton"  href="" >
               Jobs
             </a>
           
           </li>
           
           <li className="newLi" >
-            <a className="nav-link navbutton" >Contact</a>
+            <a className="nav-link navbutton" href="" >Contact</a>
           </li>
 
           <li  className="newLi" >
-            <a className="nav-link navbutton" >Sign In</a>
+            <a className="nav-link navbutton" href="" >Sign In</a>
           </li>
 
           <li className="newLi nav-item">
