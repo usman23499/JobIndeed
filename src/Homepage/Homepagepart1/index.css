@@ -1,0 +1,210 @@
+body{
+    outline: none !important;
+   
+    
+}
+.main{
+    all: none;
+    background-image: url("./images/header.svg");
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: top;
+    
+}
+.mainImage{
+    max-width: 100%;
+}
+.Navbar{
+    padding-top: 1%;
+    
+  
+}
+
+
+.logo{
+    width: 13%;
+   
+}
+.newLi{
+    margin-left: 1vw;
+    margin-right: .5vw;
+    
+}
+.navbutton{
+
+    color: white !important;
+    font-size: 1.2vw;
+}
+.navbutton:hover{
+
+    opacity: .5;
+    cursor: pointer;
+}
+.signupButton{
+    background-image: linear-gradient(90deg, rgba(0,172,255,1) 0%, rgba(9,9,121,1) 35%, rgba(0,91,193,1) 94%);
+    color: white;
+    border-radius: 60px;
+    min-width: 10vw;
+    width: 33%;
+    height: 3vw;
+    border: none;
+    outline: none;
+    font-size: 1.2vw;
+  
+
+}
+.signupButton:hover{
+
+    opacity: .5;
+    cursor: pointer;
+    outline: none;
+}
+.signupButton:focus{
+
+    outline: none !important;
+}
+
+.navbar-toggler{
+    outline: none !important;
+
+}
+.navbar-toggler:hover{
+    outline: none !important;
+}
+.navbar-toggler:focus{
+
+    outline: none !important;
+}
+.maindivSecond{
+   
+    max-width: 30%;
+    margin-left: 15%;
+    margin-top: 7%;
+   
+}
+.maindivSecondTextfirst{
+
+    font-size: 3vw;
+    font-weight: 400 !important;
+    color: #083881 !important;
+}
+.round{
+    max-width: 30%;
+    margin-top: -6% !important;
+    margin-left: -17%;
+}
+.menOne{
+   
+    margin-top: -60% !important;
+    margin-left: 37vw;
+}
+.menTwo{
+   
+    margin-top: -60% !important;
+    margin-left:41vw;
+}
+.womenOne{
+   
+    margin-top: -57% !important;
+    margin-left: 39vw;
+}
+
+@media screen and (min-width:991px){
+    .logo{
+       
+        margin-left: 9% ;
+        
+    }
+    
+    }
+   
+
+    @media screen and (max-width:991px){
+        .logo{
+           
+            margin: 0 auto;
+            text-align: center;
+            width: 180px;
+        }
+
+        .newLi{
+            margin-left: 10px;
+            margin-right: 0px;
+            
+            
+        }
+        .navbutton{
+            color: rgb(77, 67, 67) !important;
+            font-size: 10px;
+        }
+        
+        .signupButton{
+            width: 100%;
+        }
+        .container-fluid{
+            background-color:  white !important;
+            padding-top: 10px;
+            padding-bottom: 10px;
+    
+        }
+        .Navbar{
+            padding-top: 0px !important;
+            margin-top: -8px !important;
+        }
+        .womenOne,.menTwo,.menOne{
+            display: none !important;
+        }   
+        .main{
+            background: none;
+        }
+        .newbutton{
+            width: 100px;
+            margin-top: -200px !important;
+        }
+        .maindivSecond{
+            max-width: 100%;
+            margin: 0 auto;
+            text-align: center;
+            margin-left: 30px;
+            margin-top: 0px;
+            margin-right: 10px;
+         
+        }
+        .round{
+            max-width: 25%;
+        }
+        .maindivSecondTextfirst{
+            font-size: 50px;
+           
+        }
+        .secondtext{
+            font-size: 20px !important;
+            
+        }
+        .signupButton{
+            border-radius: 60px;
+            min-width: 110px;
+            
+            height: 30px;
+            font-size: 12px;
+        }
+        @media screen and (min-width:500px){
+            /* .secondtext{
+                font-size: 120px !important;
+                
+            } */
+
+            .maindivSecondTextfirst{
+                font-size: 89px;
+               
+            }
+            .signupButton{
+             
+                min-width: 210px;
+                
+                height: 40px;
+                font-size: 18px;
+            }
+        }
+    }

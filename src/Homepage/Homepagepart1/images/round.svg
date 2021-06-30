@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="549.266" height="610.555" viewBox="0 0 549.266 610.555">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#49e3f2"/>
+      <stop offset="0.191" stop-color="#3fd5f3"/>
+      <stop offset="0.549" stop-color="#25b2f8"/>
+      <stop offset="1" stop-color="#007dff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.026" y1="1.076" x2="0.59" y2="0.432" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#49e3f2"/>
+      <stop offset="0.172" stop-color="#4bd5f3"/>
+      <stop offset="0.495" stop-color="#51b2f7"/>
+      <stop offset="0.929" stop-color="#5b78fd"/>
+      <stop offset="1" stop-color="#5d6fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Vector_Smart_Object2" data-name="Vector Smart Object2" transform="matrix(-0.899, -0.438, 0.438, -0.899, 281.286, 2116.323)">
+    <path id="Path_811" data-name="Path 811" d="M900.136,1855.582c57.291-38.971,85.659-122.438,64.615-178-30.479-80.464-89.861-56.758-149.955-146.3-52.232-77.824-43.491-136.742-74.368-141.421-37.509-5.683-82.491,76.406-101.855,132.7-5.256,15.284-57.453,174.174,29.52,287.908C731.488,1893.377,841.8,1895.266,900.136,1855.582Z" opacity="0.15" fill="url(#linear-gradient)"/>
+    <path id="Path_812" data-name="Path 812" d="M908.766,1819.711c55.788-37.949,83.411-119.225,62.918-173.325-29.678-78.352-87.5-55.269-146.019-142.458-50.862-75.781-42.35-133.154-72.417-137.709-36.526-5.535-80.328,74.4-99.182,129.215-5.119,14.882-55.946,169.6,28.745,280.353C744.543,1856.513,851.962,1858.352,908.766,1819.711Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

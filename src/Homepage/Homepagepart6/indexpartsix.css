@@ -1,0 +1,11 @@
+.homepagepart6backgrounddiv{
+    all: none;
+    background-image: url("./images/homepagepart6background.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+    
+    text-align: center;
+}
+

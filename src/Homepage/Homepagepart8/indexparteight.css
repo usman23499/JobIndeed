@@ -1,0 +1,77 @@
+.homepagepart8backgrounddiv{
+  
+    background-image: url("./images/FOOTER.svg");
+    background-size: 105%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+   
+    overflow: hidden !important;
+    
+}
+.homepagepart8backgrounddivcol1{
+  
+    color: white;
+    display: flex;
+    justify-content: center !important;
+   overflow: hidden ;
+   cursor: pointer;
+}
+
+.homepagepart8backgrounddivcol1dash{
+    
+    background-color: #ffffff !important;
+    height: 1%;
+    box-sizing: border-box !important;
+    width: 4vw;
+  }
+  .homepagepart8backgrounddivcol1social{
+      display: inline-block !important;
+     
+  }
+  .homepagepart8backgrounddivcol1 h4{
+     font-size: 2vw;
+  }
+  .homepagepart8backgrounddivcol1 p{
+    font-size: 1.1vw !important;
+ }
+ .homepagepart8backgrounddivcol1 p:hover{
+    opacity: .5;
+ }
+ @media screen and (max-width:767px) and (min-width: 575px){
+    .homepagepart8backgrounddiv{
+
+        background-size: 175%;
+        
+        
+    }
+    .homepagepart8backgrounddivcol1 h4{
+        font-size: 3vw;
+     }
+     .homepagepart8backgrounddivcol1 p{
+       font-size: 1.8vw !important;
+    }
+}
+
+@media screen and (max-width:575px) {
+
+.homepagepart8backgrounddiv{
+
+        background-size: 615%;
+        
+        
+    }
+    .homepagepart8backgrounddivcol1 h4{
+        font-size: 6vw;
+     }
+     .homepagepart8backgrounddivcol1 p{
+       font-size: 3.3vw !important;
+    }
+    .homepagepart8backgrounddivfollowus{
+        margin-top: 140%;
+    }
+    .homepagepart8backgrounddivcol1{
+        justify-content: left !important;
+        padding-left: 10% !important;
+    }
+}

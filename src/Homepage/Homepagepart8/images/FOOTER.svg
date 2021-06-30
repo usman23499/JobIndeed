@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2152" height="1218.027" viewBox="0 0 2152 1218.027">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.669" y1="1.25" x2="0.331" y2="-0.25" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4ec7f5"/>
+      <stop offset="1" stop-color="#5c75fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.356" y1="-0.25" x2="0.644" y2="1.25" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.376" y1="-0.25" x2="0.624" y2="1.25" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="FOOTER" transform="translate(107 -6229.973)">
+    <path id="FOOTER_copy" data-name="FOOTER copy" d="M-57,6419c1.352-11.227,254.118,277.887,989-51,821.968-367.861,1065,116,1065,116l3,815-2107-15Z" opacity="0.149" fill="url(#linear-gradient)"/>
+    <path id="FOOTER-2" data-name="FOOTER" d="M-60,6395c-.553.209,264.737,365.486,992,69,833.9-339.958,1065,116,1065,116l3,815-2107-15Z" fill="url(#linear-gradient-2)"/>
+    <path id="footer-3" data-name="footer" d="M2045,6803s-250.733-234.236-704-42c-384.969,163.27-350.217,523.618-767,475C96.721,7180.326-99,7448-99,7448l2112-93Z" opacity="0.149" fill="url(#linear-gradient-3)"/>
+    <path id="Rectangle_3_copy" data-name="Rectangle 3 copy" d="M0,5Z" transform="translate(1076 6660.09)" fill="#fff"/>
+  </g>
+</svg>
