@@ -5,7 +5,7 @@ import RoundImage from "./images/round.svg";
 import MenOne from "./images/menOne.svg";
 import MenTwo from "./images/mentwo.svg";
 import WomenOne from "./images/womenOne.svg";
-import { useEffect } from "react";
+
 import AOS from "aos";
 import 'aos/dist/aos.css';
 
@@ -14,9 +14,9 @@ function Main() {
   
 
   
-    useEffect(() => {
+  
       AOS.init({duration:3000});
-    },[1]);
+   
 
 
 
